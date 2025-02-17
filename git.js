@@ -7,4 +7,3 @@ const dd = "dd";
 const dl = "malsdkjflsjf";
 const d = "b";
 const ll = "kkkk";
-const cc = "hii";
