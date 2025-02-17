@@ -1,3 +1,6 @@
+
+const b = "afadf";
+
 const b = "ff";
 const vval = "Hello world";
 
