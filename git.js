@@ -1,0 +1,1 @@
+const vval = "Hello world";
