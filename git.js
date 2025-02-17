@@ -1,9 +1,4 @@
-const b = "afadf";
-
-const b = "ff";
-const l = "kkkk";
-const vval = "Hello world";
-
-const hw = "hiiiii";
-const ba = "asdfasdfsd";
-const a = "kkkdlf";
+const a = "a";
+const b = "b";
+const c = "c";
+const k = "branch";
