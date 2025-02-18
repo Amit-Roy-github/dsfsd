@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const a = "a";
 const b = "b";
 const c = "c";
@@ -9,3 +10,5 @@ const d = "b";
 const ll = "kkkk";
 const cck = "hii";
 const t = "f";
+=======
+>>>>>>> origin/main
