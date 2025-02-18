@@ -7,3 +7,4 @@ const branch = () => {
 };
 // So all actual chages after merge 
 // other branches chages will not be commited by us after merge;
+    const branchChange = true;
