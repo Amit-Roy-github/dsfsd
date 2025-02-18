@@ -1,4 +1,4 @@
 const a = "hello world!";
-const b = () => {
-  console.log("I'm function B ");
+const branch = () => {
+  console.log("Function Branch");
 };
