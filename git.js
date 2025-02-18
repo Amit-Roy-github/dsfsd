@@ -1,4 +1,5 @@
 const a = "hello world!";
+const change = true;
 const b = () => {
   console.log("I'm function B v2 ");
 const branch = () => {
